@@ -10,7 +10,7 @@ Following the original analysis of the school districts' scores, it was found th
 Replacing the THS ninth-grade math and reading scores impacted the School District Analysis in the following ways. 
 
 ### District Summary
-There is a slight decrease in the district's average math scores (79.0 to 78.9) as well as a decrease in the passing percentages for math (75% to 74.8%), reading (86% to 74.8%) and overall (65% to 64.9%) following the removal of the THS ninth-grade students' math and reading scores (*see details below*). 
+There is a slight decrease in the district's average math scores as well as a decrease in the passing percentages for math, reading and overall following the removal of the THS ninth-grade students' math and reading scores (*see details below*). 
 
 **Original District Summary**
 
@@ -21,9 +21,7 @@ There is a slight decrease in the district's average math scores (79.0 to 78.9) 
 ![District_Summary_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/District_Summary_Updated.png)
 
 ### School Summary
-There is a slight decrease in THS students' scores across the board including a drop in math and reading averages as well as a decrease in the percentage passing math, reading and overall as a result of removing the ninth-grade scores (*see details below*). 
-
-How is the school summary affected?
+There is a slight decrease in THS students' scores across the board including a drop in math and reading averages as well as a decrease in the percentage passing math, reading and overall as a result of replacing the ninth-grade scores (*see details below*). 
 
 **Original School Summary**
 
@@ -48,25 +46,27 @@ Replacing the THS ninth-grade math and reading scores did not have an impact in 
 
 #### Math and Reading Scores by Grade
 
-##### Math Scores
+The math and reading scores for THS were impacted by the replacing of the ninth-grade students' scores.
 
-For THS' math scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their math scores being replaced by null values. No other math scores were impacted (*see details below*). 
+* Math Scores
+
+  * For THS' math scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their math scores being replaced by null values. No other math scores were impacted (*see details below*). 
+
+* Reading Scores
+
+  * For THS' reading scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their reading scores being replaced by null values. No other reading scores were impacted (*see details below*). 
 
 **Original Math Scores by Grade**
 
 ![Math_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Math_Scores_By_Grade.png)
 
-**Updated Math Scores by Grade**
-
-![Math_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Math_Scores_By_Grade_Updated.png)
-
-##### Reading Scores
-
-For THS' reading scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their reading scores being replaced by null values. No other reading scores were impacted (*see details below*). 
-
 **Original Reading Scores by Grade**
 
 ![Reading_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Reading_Scores_By_Grade.png)
+
+**Updated Math Scores by Grade**
+
+![Math_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Math_Scores_By_Grade_Updated.png)
 
 **Updated Reading Scores by Grade**
 
