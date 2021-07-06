@@ -6,7 +6,7 @@ Following the original analysis of the school districts' scores, it was found th
 
 *[Original Analysis](https://github.com/rabascoh/school-district-analysis/blob/main/Module%20Materials/PyCitySchools.ipynb)*
 
-*[Updated Analysis](https://github.com/rabascoh/school-district-analysis/blob/main/Module%20Materials/PyCitySchools_Challenge.ipynb)
+*[Updated Analysis](https://github.com/rabascoh/school-district-analysis/blob/main/PyCitySchools_Challenge.ipynb)*
 
 ## Results
 Replacing the THS ninth-grade math and reading scores impacted the School District Analysis in the following ways. 
