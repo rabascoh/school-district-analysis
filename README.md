@@ -109,7 +109,7 @@ The scores by school type were not impacted by replacing THS ninth-grade math an
 
 ## Summary
 The following changes occured after the reading and math scores for the ninth grade at Thomas High School were replaced with NaNs.
-1. **District Summary:** All metrics (average scores & passing percentages) except the reading average reading score were negatively impacted by replacing of the math and reading scores for THS ninth-grade students.  
-2. **School Summary:** All metrics (average scores & passing percentages) were negatively impaced by replacing of the math and reading scores for THS ninth-grade students.  
+1. **District Summary:** All metrics (average scores & passing percentages) except the average reading score were negatively impacted by replacing the math and reading scores for THS ninth-grade students.  
+2. **School Summary:** All metrics (average scores & passing percentages) were negatively impaced by replacing the math and reading scores for THS ninth-grade students.  
 3. **Math Scores by Grade:** THS ninth-grade students no longer have math scores listed (only "NaN" listed) due to the replacement of math scores for THS ninth-grade students. 
 4. **Reading Scores by Grade:** THS ninth-grade students no longer have reading scores listed (only "NaN" listed) due to the replacement of reading scores for THS ninth-grade students. 
