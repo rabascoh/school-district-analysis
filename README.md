@@ -34,13 +34,13 @@ How is the school summary affected?
 ### THS Performance Relative to Other Schools
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-**Original Per School Summary**
+**Original Top Schools**
 
-![Per_School_Summary_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Per_School_Summary.png)
+![Top_Schools_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Top_Schools.png)
 
-**Updated Per School Summary**
+**Updated Top Schools**
 
-![Per_School_Summary_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Per_School_Summary_Updated.png)
+![Top_Schools_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Top_Schools_Updated.png)
 
 ### THS Scores
 How does replacing the ninth-grade scores affect the following:
