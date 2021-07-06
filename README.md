@@ -6,6 +6,8 @@ Following the original analysis of the school districts' scores, it was found th
 
 *[Original Analysis](https://github.com/rabascoh/school-district-analysis/blob/main/Module%20Materials/PyCitySchools.ipynb)*
 
+*[Updated Analysis](https://github.com/rabascoh/school-district-analysis/blob/main/Module%20Materials/PyCitySchools_Challenge.ipynb)
+
 ## Results
 Replacing the THS ninth-grade math and reading scores impacted the School District Analysis in the following ways. 
 
@@ -53,11 +55,11 @@ The math and reading scores for THS were impacted by the replacing of the ninth-
   * For THS' math scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their math scores being replaced by null values. No other math scores were impacted (*see math scores tables below*). 
   * **Original Math Scores by Grade**
 
-  * ![Math_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Math_Scores_By_Grade.png)
+  ![Math_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Math_Scores_By_Grade.png)
 
   * **Updated Math Scores by Grade**
 
-  * ![Math_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Math_Scores_By_Grade_Updated.png)
+  ![Math_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Math_Scores_By_Grade_Updated.png)
 
 
 * Reading Scores
@@ -65,11 +67,11 @@ The math and reading scores for THS were impacted by the replacing of the ninth-
   * For THS' reading scores, ninth-grade scores are now replaced with NaN (i.e., Not a Number) due to their reading scores being replaced by null values. No other reading scores were impacted (*see reading scores tables below*). 
   * **Original Reading Scores by Grade**
 
-  * ![Reading_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Reading_Scores_By_Grade.png)
+  ![Reading_Scores_By_Grade_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/Reading_Scores_By_Grade.png)
 
   * **Updated Reading Scores by Grade**
 
-  * ![Reading_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Reading_Scores_By_Grade_Updated.png)
+  ![Reading_Scores_By_Grade_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/Reading_Scores_By_Grade_Updated.png)
 
 #### Scores by School Spending
 
