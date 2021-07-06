@@ -12,11 +12,13 @@ The removal of THS ninth-grade scores impacted the School District Analysis in t
 ### District Summary
 How is the district summary affected?
 
-Original District Summary
-[!District_Summary_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/District_Summary.png)
+**Original District Summary**
 
-Updated District Summary
-[!District_Summary_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/District_Summary_Updated.png)
+![District_Summary_Original](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Original/District_Summary.png)
+
+**Updated District Summary**
+
+![District_Summary_Updated](https://github.com/rabascoh/school-district-analysis/blob/main/Resources/DataFrames_Updated/District_Summary_Updated.png)
 
 ### School Summary
 How is the school summary affected?
